@@ -1,2 +1,2 @@
-# normi-os.github.io
-Website for Normi-OS.
+# Website for Normi-OS
+
